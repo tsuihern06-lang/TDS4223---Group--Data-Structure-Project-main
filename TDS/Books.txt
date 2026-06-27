@@ -1,0 +1,50 @@
+B001|Clean Code|Robert C. Martin|Programming|2008|5|Available
+B002|Effective C++|Scott Meyers|Programming|2005|4|Available
+B003|Head First Java|Kathy Sierra|Programming|2020|3|Available
+B004|Python Crash Course|Eric Matthes|Programming|2019|6|Available
+B005|Introduction to Algorithms|Thomas H. Cormen|Algorithms|2022|2|Available
+B006|Database System Concepts|Abraham Silberschatz|Database|2020|4|Available
+B007|Operating System Concepts|Abraham Silberschatz|Operating System|2018|3|Available
+B008|Computer Networks|Andrew S. Tanenbaum|Networking|2021|5|Available
+B009|Artificial Intelligence A Modern Approach|Stuart Russell|AI|2022|10|Available
+B010|The Pragmatic Programmer|Andrew Hunt|Programming|2019|4|Available
+B011|Design Patterns|Erich Gamma|Software Engineering|1994|3|Available
+B012|Software Engineering|Ian Sommerville|Software Engineering|2022|5|Available
+B013|Data Communications and Networking|Behrouz A. Forouzan|Networking|2017|4|Available
+B014|Digital Logic Design|M. Morris Mano|Computer Engineering|2017|6|Available
+B015|Computer Architecture|John L. Hennessy|Computer Architecture|2019|3|Available
+B016|Honor of King Strategy Guide|Tsui Hern|Game|2021|2|Available
+B017|Peace of Game|Tsui Hern|Game|2026|10|Available
+B018|C Programming Language|Brian W. Kernighan|Programming|1988|5|Available
+B019|Modern C++ Design|Andrei Alexandrescu|Programming|2001|4|Available
+B020|Java How to Program|Paul Deitel|Programming|2020|6|Available
+B021|Learning Python|Mark Lutz|Programming|2018|7|Available
+B022|Python for Data Analysis|Wes McKinney|Data Science|2022|5|Available
+B023|Deep Learning|Ian Goodfellow|AI|2016|4|Available
+B024|Machine Learning|Tom M. Mitchell|AI|1997|3|Available
+B025|Hands-On Machine Learning|Aurélien Géron|AI|2023|6|Available
+B026|Computer Organization and Design|David A. Patterson|Computer Engineering|2021|4|Available
+B027|Operating Systems Internals|William Stallings|Operating System|2020|3|Available
+B028|TCP/IP Illustrated|W. Richard Stevens|Networking|2011|5|Available
+B029|CCNA 200-301 Official Guide|Wendell Odom|Networking|2023|8|Available
+B030|MySQL Crash Course|Ben Forta|Database|2022|6|Available
+B031|SQL in 10 Minutes|Ben Forta|Database|2021|5|Available
+B032|Database Management Systems|Raghu Ramakrishnan|Database|2018|4|Available
+B033|Data Structures Using C++|D. S. Malik|Algorithms|2019|5|Available
+B034|Algorithms Unlocked|Thomas H. Cormen|Algorithms|2016|4|Available
+B035|Grokking Algorithms|Aditya Bhargava|Algorithms|2017|7|Available
+B036|Competitive Programming 4|Steven Halim|Algorithms|2020|6|Available
+B037|Cloud Computing Concepts|Rajkumar Buyya|Cloud Computing|2021|5|Available
+B038|AWS Certified Solutions Architect|Ben Piper|Cloud Computing|2023|5|Available
+B039|Microsoft Azure Fundamentals|Jim Cheshire|Cloud Computing|2022|4|Available
+B040|Cybersecurity Essentials|Charles Brooks|Cyber Security|2021|6|Available
+B041|Ethical Hacking|Daniel Graham|Cyber Security|2020|4|Available
+B042|Computer Security Principles|William Stallings|Cyber Security|2022|5|Available
+B043|Linux Command Line|William Shotts|Operating System|2019|6|Available
+B044|UNIX System Programming|W. Richard Stevens|Operating System|2017|3|Available
+B045|HTML and CSS Design|Jon Duckett|Web Development|2019|7|Available
+B046|JavaScript The Good Parts|Douglas Crockford|Web Development|2008|5|Available
+B047|Learning PHP MySQL|Robin Nixon|Web Development|2021|4|Available
+B048|React Up and Running|Stoyan Stefanov|Web Development|2022|5|Available
+B049|Flutter in Action|Eric Windmill|Mobile Development|2021|6|Available
+B050|Android Programming|Bill Phillips|Mobile Development|2023|5|Available

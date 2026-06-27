@@ -1,0 +1,4 @@
+BR10001|tsuihern|B001|2026-06-15|2026-06-15|Returned
+BR10002|tsuihern|B001|2026-06-15|2026-06-15|Returned
+BR10003|tsuihern|B001|2026-06-15|2026-06-15|Returned
+BR10004|tsuihern|B012|2026-06-15|2026-06-15|Returned
